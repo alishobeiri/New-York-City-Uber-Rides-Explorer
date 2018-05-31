@@ -1,12 +1,7 @@
-**Dash Uber Rides Demo**
+**New York City Uber Rides Explorer**
+This app is based off of data provided by [FiveThirtyEight](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data) and highlights Uber trips taken in New York City from April 2014 to September 2014.
 
-This is a demo of the Dash interactive Python framework developed by [Plotly](https://plot.ly/).
-
-Dash abstracts away all of the technologies and protocols required to build an interactive web-based application and is a simple and effective way to bind a user interface around your Python code.
-
-This demo is based off of data provided by [FiveThirtyEight](https://github.com/fivethirtyeight/uber-tlc-foil-response/tree/master/uber-trip-data) and highlights Uber trips taken in New York City from April 2014 to September 2014.
-
-To learn more check out our [documentation](https://plot.ly/dash).
+The app allows you to filter by time of day and shows a histogram of Uber ride activity over the course of 24 hours. I also attached a series of different points of interest that I thought would be cool to check out, these can be seen in the buttons that are overlayed onto the map. 
 
 The following are screenshots for the app in this repo:
 
